@@ -47,3 +47,5 @@ _**git log**_ вывод на экран истории всех коммито�
 ![Франция](https://media.istockphoto.com/id/1248448159/photo/villefranche-sur-mer-village-in-france.jpg?s=612x612&w=0&k=20&c=sGQxaH_1v9lgHy9Cq5RMAx3WPPyI1sL84paxr0f3UoI=)
 
 ## Основные команды 3-го семинара
+
+**> git clone - новая команда
